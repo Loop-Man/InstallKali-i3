@@ -255,8 +255,6 @@ bindsym $modkey+Shift+Return exec --no-startup-id thunar
 
 bindsym Print exec --no-startup-id flameshot gui
 
-bindsym $modkey+Ctrl+o exec --no-startup-id ~/.config/i3/bin/picom-toggle.sh
-
 bindsym $modkey+c exec $term -e calcurse
 
 # Start Apps
