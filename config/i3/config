@@ -261,7 +261,7 @@ bindsym $modkey+c exec $term -e calcurse
 bindsym $modkey+a exec --no-startup-id xfce4-appfinder
 bindsym $modkey+n exec --no-startup-id nm-connection-editor
 #bindsym $modkey+b exec --no-startup-id pkexec burpsuite
-#bindsym $modkey+b exec --no-startup-id sudo -A pkexec burpsuite
+bindsym $modkey+Shift+b exec --no-startup-id sudo -A pkexec burpsuite
 bindsym $modkey+b exec --no-startup-id sudo -A pkexec BurpSuitePro
 
 # Misc (above)
