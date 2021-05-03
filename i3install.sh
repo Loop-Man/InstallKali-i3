@@ -7,7 +7,6 @@ sudo apt install rofi -y
 sudo apt install htop -y
 sudo apt install ranger -y
 sudo apt install flameshot -y
-sudo apt install picom -y
 sudo apt install feh -y
 sudo apt install calcurse -y
 sudo apt install xfce4-appfinder -y
