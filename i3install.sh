@@ -14,4 +14,4 @@ sudo apt install nm-connection-editor -y
 sudo apt install unclutter-xfixes -y
 sudo apt install redshift -y
 sudo apt install cbatticon -y
-sudo apt install lsd -y
+## lsd:  sudo dpkg -i lsd_0.22.0_amd64.deb get .deb file from https://github.com/Peltoche/lsd
