@@ -1,5 +1,5 @@
 #!/bin/bash
-
+############ i3 ######################
 sudo apt install i3 -y
 sudo apt install i3-gaps -y
 sudo apt install i3blocks -y
@@ -14,4 +14,8 @@ sudo apt install nm-connection-editor -y
 sudo apt install unclutter-xfixes -y
 sudo apt install redshift -y
 sudo apt install cbatticon -y
+#######################################
 ## lsd:  sudo dpkg -i lsd_0.22.0_amd64.deb get .deb file from https://github.com/Peltoche/lsd
+sudo apt install golang -y
+sudo apt install bat -y
+sudo apt install grc -y
