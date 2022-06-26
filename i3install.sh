@@ -19,3 +19,5 @@ sudo apt install cbatticon -y
 sudo apt install golang -y
 sudo apt install bat -y
 sudo apt install grc -y
+sudo apt install hwinfo -y
+## Visual studio code: https://code.visualstudio.com/download && sudo dpkg -i <download.deb>
