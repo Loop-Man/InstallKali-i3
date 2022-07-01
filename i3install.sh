@@ -17,7 +17,8 @@ sudo apt install cbatticon -y
 #######################################
 ## lsd:  sudo dpkg -i lsd_0.22.0_amd64.deb get .deb file from https://github.com/Peltoche/lsd
 sudo apt install golang -y
-sudo apt install bat -y
+## bat: sudo dpkg -i bat-musl_0.21.0_amd64 file from https://github.com/sharkdp/bat
 sudo apt install grc -y
 sudo apt install hwinfo -y
 ## Visual studio code: https://code.visualstudio.com/download && sudo dpkg -i <download.deb>
+sudo apt install fzf -y 
