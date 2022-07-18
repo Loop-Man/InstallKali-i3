@@ -22,3 +22,5 @@ sudo apt install grc -y
 sudo apt install hwinfo -y
 ## Visual studio code: https://code.visualstudio.com/download && sudo dpkg -i <download.deb>
 sudo apt install fzf -y 
+sudo apt install virtualbox virtualbox-ext-pack -y
+sudo apt install docker.io -y
